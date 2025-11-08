@@ -1,4 +1,4 @@
-public class Dog extends creature {
+public final class Dogex2 extends creature {
     @Override
     public void bear() {
         this.name = "Bobik";
